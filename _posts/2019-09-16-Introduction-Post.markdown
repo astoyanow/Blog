@@ -4,7 +4,7 @@ title:  "Introduction Blog"
 date:   2019-09-16 20:04:40 -0500
 categories: jekyll update
 ---
-#Introduction Post
+# Introduction Post
 
 Setting up this blog on GitHub pages was a new experience for me because of two things:
 
