@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Introduction Blog"
-date:   2019-09-16
+date:   2019-09-16 20:04:40 -0500
 categories: jekyll update
 ---
 #Introduction Post
