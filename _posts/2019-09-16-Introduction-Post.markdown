@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction Blog"
 date:   2019-09-16 20:04:40 -0500
 categories: jekyll update
+author: Andrei Stoyanow
 ---
 # Introduction Post
 
