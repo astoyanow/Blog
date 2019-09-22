@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction Blog"
+title:  "Learning About Jekyll Styling"
 date:   2019-09-23 18:24:40 -0500
 categories: jekyll update
 author: Andrei Stoyanow
