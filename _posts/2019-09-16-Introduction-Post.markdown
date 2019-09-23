@@ -5,8 +5,6 @@ date:   2019-09-16 20:04:40 -0500
 categories: jekyll update
 author: Andrei Stoyanow
 ---
-# Introduction Post
-
 Setting up this blog on GitHub pages was a new experience for me because of two things:
 
 - I had to use the terminal to input information in order to install Ruby as well as create files in my repository.
