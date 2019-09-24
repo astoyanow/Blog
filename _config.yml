@@ -1,8 +1,8 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Drei's Blog
+description: My Computer Science Journey
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
+url: http://github.com/astoyanow/csci340blog
+baseurl: "csci340blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -20,9 +20,9 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: astoyanow
+  twitter: _stoyahknow
+  facebook:
+  email: astoyanow13@gmail.com
 
 google_analytics: "UA-58263416-1"
