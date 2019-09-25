@@ -13,6 +13,6 @@ In lab 4, we learned about how to change Jekyll styling for posts and blogs and 
 
 ![Image 2]({{site.baseurl}}/images/BootStrapIcon.svg)
 
-[My last post](https://astoyanow.github.io/csci340blog/jekyll/update/2019/09/17/Introduction-Post.html)
+[My last post](https://astoyanow.github.io/csci340blog/blog/Introduction-Post/)
 
 [Jekyll Templates](https://www.wowthemes.net/jekyll-themes-templates/)
