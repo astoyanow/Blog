@@ -1,6 +1,8 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /about/
 ---
-My name is Andrei Stoyanow and I am a college student that attends Hendrix College in Conway, Arkansas. I play baseball for the Hendrix College Warriors and currently undecided in terms of my major. I am from Kapolei, Oahu, Hawaii so I am a long ways from home than most people. I am working towards either a degree in Computer Science or Health Science, potentially minoring in Computer Science.
+# A Little Bit of Everything
+
+I am currently a senior attending Hendrix College, where I am also a pitcher for the Hendrix Warriors Baseball Team. I am originally from Kapolei, Hawaii where I attended Kapolei High School and also played baseball there. 
