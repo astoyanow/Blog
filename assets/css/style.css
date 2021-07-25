@@ -804,13 +804,10 @@ HEADER STYLING
   background-color: black;
   color: white;
   padding: 0;
-  opacity: 0.75;
+  background-image: url("../img/itachi-wallpaper.png");
+  background-size: cover;
+  background-position:center;
   height: 3em; }
-  .header::before{
-    background-image: url("../img/naruto-manga.jpg");
-    background-size: cover;
-    background-position: center center;
-  }
   .header .container {
     padding: 0;
     max-width: 100%; }
@@ -825,6 +822,7 @@ HEADER STYLING
     text-transform: uppercase; }
     .header h1 a {
       color: white;
+      font-size: 1.25em;
       text-shadow: 2px 2px black;
       text-decoration: none; }
 
@@ -1021,7 +1019,8 @@ POST LIST STYLING
 GLOBAL STYLES
 ***************/
   .content {
-    padding-top: 0;
+    padding-top: 1em;
+    margin-top: 1em;
     position: relative;
     z-index: 1; }
     .content:after {
