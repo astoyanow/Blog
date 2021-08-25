@@ -3,8 +3,8 @@ description: My Computer Science Journey
 
 url: "astoyanow.github.io"
 baseurl: "/Blog"
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "Blog/page:num/"
+permalink: Blog/:title/
 
 markdown: kramdown
 highlighter: rouge
