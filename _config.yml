@@ -1,7 +1,7 @@
 title: Drei's Blog
 description: My Computer Science Journey
 
-url: "astoyanow/github.io"
+url: "astoyanow.github.io"
 baseurl: "/blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
