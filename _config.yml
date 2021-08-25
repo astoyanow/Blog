@@ -2,9 +2,9 @@ title: Drei's Blog
 description: My Computer Science Journey
 
 url: "astoyanow.github.io"
-baseurl: "/Blog"
-paginate_path: "Blog/page:num/"
-permalink: Blog/:title/
+baseurl: "/blog"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
