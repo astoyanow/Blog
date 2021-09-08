@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Week In"
-date:   2019-09-16 18:35:38 -0500
+date:   2021-09-06 18:35:38 -0500
 categories: jekyll update
 ---
 The first two weeks working in Disco Tray Studios has already been a big learning experience. I was thrown into the works right away and had to refresh myself in Android
