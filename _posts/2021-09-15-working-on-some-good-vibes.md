@@ -27,10 +27,7 @@ by Google. Users are able to set rules for reading, writing, and other actions
 so that certain actions can only be performed as long as the rules are followed.
 This helps to keep the database secure so that malicious users do not exploit
 the database in a way where they can possibly retrieve information, ruin the app,
-or perform unwanted action within the app. Firebase uses NoSQL, a non-deterministic
-database that uses documents and collections with key-value pairs, almost like
-JavaScript. I am currently reading the docs and security walkthroughs as I
-learn how to make the database secure.
+or perform unwanted action within the app. I am currently reading the docs and security walkthroughs as I learn how to make the database secure.
 
   I also got a new computer this past weekend so now I do not have to wait a
 billion years to open Android Studio :D .
