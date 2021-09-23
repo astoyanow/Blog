@@ -23,5 +23,4 @@ It got to a point where I was about to switch my major to become a Health Scienc
 major and become a nurse. I had a talk with my advisor who understood my struggle
 and did not try to convince me to stay or switch, but still was able to put the
 thought in my head to just stick with it and see it through. I passed the class
-with an A and kept going and kept working hard and now I am a senior computer science
-major just two semester away from graduation.
+with an A and kept going and kept working hard and now I am a senior computer science major just two semesters away from graduation.
