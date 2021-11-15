@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "So Close Yet So Far"
-date:   2021-11-04 18:35:38 -0500
+date:   2021-11-03 18:35:38 -0500
 categories: jekyll update
 ---
 Favoriting quotes is still a work in progress. The good news is that I am really
