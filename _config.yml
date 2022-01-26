@@ -18,6 +18,8 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
+  #- title: Projects
+  #  url: /projects
 
 social:
   github: astoyanow
