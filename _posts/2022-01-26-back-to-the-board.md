@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The New Year"
-date:   2022-26-01 18:35:38 -0500
+date:   2022-01-26 18:35:38 -0500
 categories: jekyll update
 ---
 
