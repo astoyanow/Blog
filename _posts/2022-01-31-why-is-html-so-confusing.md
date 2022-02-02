@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Why Is HTML So Confusing"
+date:   2022-01-31 18:35:38 -0500
+categories: jekyll update
+---
+
+This week I was tasked with fixing an issue conerning the screen size and how the current layout of the Hendrix Assessment website was not very user-friendly with smaller screens and mobile devices. I have not worked with HTML in a long time (over a year) so it is a good way to refresh my memory. Since Hendrix Assessment is also utilizing ASP.NET Core and Razor Pages, there are more details that I need to start learning about and reading up on so I can get a better grasp of what is going on. It is especially important that I learn how layouts interact with each other and how they are nested, rendered, and other actions. 
+
+Although it seemed like a simple task, it was actually quite difficult. I have followed StackOverflow and even Bootstrap code examples for navbar-toggle and navbar-collapse to create a navbar that collapses into a hamburger dropdown when the screen gets below a certain size. However, not only does the hamburger stay in the navbar and not disappear when the screen is big enough, but the sidebar that is supposed to collapse into the hamburger when the screen gets smaller does not show up, even when the hamburger is interacted with. It definitely has something to do with being able to section parts of a layout in one layout and insert it into the parent layout in a certain section of the parent layout. It may also have to do with how the items are set up in the navbar, but I still need to do more research on that.
+
+I have not been able to get as much work done as I would like to in Disco Tray Studios since Artificial Intelligence and Functional Programming are taking up a lot of my time and baseball season is right around the corner. Not only do I spend about 20-25 hours a week for baseball, but my classes and the projects I need to do for them also take up most of my time. I was working on a single Functional Programming problem for 2 1/2 hours and made no progress and worked on an AI project for 4 hours with little progress, so it has already been a tough week since our last meeting. But do not fret, things will be okay, I just need to do my best in everything I do, because what else is there for me to do?
