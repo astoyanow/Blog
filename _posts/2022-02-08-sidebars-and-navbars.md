@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sidebars and NAvbars"
+title:  "Sidebars and Navbars"
 date:   2022-02-08 18:35:38 -0500
 categories: jekyll update
 ---
