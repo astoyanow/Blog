@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Close to Beta Testing"
+date:   2022-03-01 18:35:38 -0500
+categories: jekyll update
+---
+
+Big leaps have been made, new pushes pushed. We are getting closer and closer to getting Good Vibes ready for beta testing! We just need to fix a few things and make sure everything works correctly. Andrew has been making many changes, including a big change where we no longer use a local database for our quotes. There were too many issues with getting the correct version of the database on everyones device which caused even more problems. Andrew decided to ditch the local database and move everything to the Firebase remote database. The reads and writes would be minimal even though everything gets moved remotely which was what I was concerned about. Maybe when our user base increases in size, then that will be a concern to deal with but for now, we'll be okay.
+
+I am helping with some quality assurance with Andrew's changes, making sure everything is smooth and there are no bugs. Everything looked good so we pushed all the changes. This week has been slow for me for everything else. I have not made much progress on HDX Assessment. I am trying to figure out how I want to format the surveys when the screens get smaller: should the table with the inputs be scrollable or shrink? Or should the layout collapse into a more efficient view? What would that look like? There are a lot of things to look at and multiple angles to take into consideration. Do we want to get away from the current structure or stick with it since it is what users are used to? I am trying to also figure out how to either utilize border-box without making the inputs disappear when the screen gets smaller and just learning how the functions work in the cshtml file for the page layout. There are a lot of get functions and models and such that can make it confusing to understand what is being looped through and what values are being returned, so another goal will be to understand the codebase deeper and understand the components even though I am working on the front end.

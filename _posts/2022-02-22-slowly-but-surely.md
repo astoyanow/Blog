@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Back to Good Vibes"
+title:  "Slowly But Surely..."
 date:   2022-02-22 18:35:38 -0500
 categories: jekyll update
 ---
