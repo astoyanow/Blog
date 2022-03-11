@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HTML and CSS progress on Hendrix Assessment"
+date:   2022-03-07 18:35:38 -0500
+categories: jekyll update
+---
+
+This week was a continuation of the tasks from last week with a few added measures. I had a few additional tasks to do which included changing some style variables as well as adding the new links for the new versions of Good Vibes to the static webpage that I had created last semester.
+
+The first task that I had accomplished with the hamburger menu was the changing of colors and addition of a border to the button. Dr. Goadrich wanted the words to be lighter in color and easier to read so I changed the color of the element that the survey names were. I also added a white border to the hamburger button so that it was more clear to users that the menu was a button to click rather than a text element in the navbar. Dr. Goadrich also wanted the hamburger menu to automatically show when the screen got to a certain size so that for mobile users, the menu would show up automatically rather than the user having to press the button to open the menu of surveys. It's a seemingly insignificant change but everything has significance in the realm of user interface and user experience. 
+
+The first style fix I accomplished on the surveys was the navbar issue where the table extended past the navbar so when the screen would scroll, the navbar would not extend to the end of the screen. To fix this, I simply made the responsive table scrollable sideways, that way the content within the table would not overflow the page and affect the navbar on smaller screens. I also moved the abbreviations of the options to the top rather than them being on every row. Another issue I fixed was that the submit button would overlap the input box at the bottom of the screen, so I made sure that the button would stay below the input box and that everything was lined up properly with margins.
+
+The only issue I could not find a solution for was the pop up messages for the abbreviations not showing the overflow past the table boundaries. For some reason, the pop up message is contained within the table that is responsive, so unless the pop up button has an absolute position (which makes it unresponsive and will not scroll with the rest of the elements in the table), the message gets cut off at the top of the table. I could not find a solution for this issue, so I think I will make the message show downards and stay within the table. The only reason I wasnt to avoid this is so that the message does not overlap any of the contents that need to be read or filled out in the table.
