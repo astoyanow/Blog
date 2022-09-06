@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Working on Hendrix Assessment and Arkansas Asset Builders"
+date:   2022-09-05 18:35:38 -0500
+categories: jekyll update
+---
+
+This week was not too busy but things seem like they will start to ramp up soon.
+
+Arkansas Asset Builders, the non-profit mentioned in the previous post, will be the main focus for some of us here at Disco Tray Studios. We met with Joyia Yorgey, an executive with Arkansas Asset Builders, to discuss what she wanted us to do with the project and the capabailities that she wanted the project to be able to support. It seems as though she would like a completely local executable build that she can download from somewhere once and save and write things strictly locally. Previously, the project that was made for her had to be accessed through Github and an IDE, which can be particularly difficult to manage for someone who is not an experienced programmer. We need to create something that can be easier to use and only needs to be downloaded once and can be run from their desktop. I have some experience with creating builds through a Jenkins pipeline from an internship that I did but I will need to do more research. This project will also utilize a local database only since the data is sensitive considering it contains personal information about people. Our main task for now is to decide what kind of format we will create this project in. If we stick with a website, we may stick with Visual Studio. However, if we can create something better that is also simpler to use, we may stick with that as well.
+
+I also have been working on unit tests and documenting functions and methods for Hendrix Assessment, though much less unit tests. Many of the functions that can be unit tested are database functions, which is tricky to make unit tests for since you would need to create a test database in order to not test on the actual database that we use. I am also quite unfamiliar with the functions in the project, so I have not made much progress with those. I have been writing a lot of docstrings for the functions in Hendrix Assessment, which makes it easier to understand what some functions are doing. It is not as easy as Python docstrings since the C# docstrings are in XML format, but it is simple enough to get the hang of it relatively quickly.
