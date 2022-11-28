@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Draft"
-date:   2022-11-13 18:35:38 -0500
+title:  "Onto the Next"
+date:   2022-11-20 18:35:38 -0500
 categories: jekyll update
 ---
 
